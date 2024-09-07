@@ -1,0 +1,228 @@
+body{
+  background-image: url("img/background.jpg");
+  position: relative;
+  background-size: cover;
+  text-align: center;
+}
+.img1{
+  width: 100%;
+  height: 100%;
+}
+.img2{
+  width: 100%;
+  height: 100%;
+}
+#name{
+
+    top: 0px;
+    font-size: xx-large;
+    font-family: none;
+    color: white;
+    text-decoration: underline;
+    left: 445px;
+}
+#intro{
+  
+    font-size: 1.8rem;
+    top: 0px;
+    font-family: none;
+    color: white;
+      top: 89px;
+      left: 122px;
+      margin-top: 74px;
+      margin-bottom: 52px;
+}
+form {
+    width: 350px;
+ 
+  }
+  form .form-field::before {
+    font-size: 20px;
+  
+    color: #888888;
+    content: " ";
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  /*form .form-field:nth-child(1)::before {
+    background-image: url(img/user-icon.png);
+    width: 20px;
+    height: 20px;
+    top: 15px;
+  }
+  form .form-field:nth-child(2)::before {
+    background-image: url(img/lock-icon.png);
+    width: 16px;
+    height: 16px;
+  }*/
+  form .form-field {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    position: relative;
+  }
+  form input {
+    font-family: inherit;
+    width: 100%;
+    outline: none;
+    background-color: #fff;
+    border-radius: 4px;
+    border: none;
+    display: block;
+    padding: 0.9rem 0.7rem;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+    font-size: 17px;
+    color: #4A4A4A;
+    text-indent: 40px;
+  }
+  form .btn {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0.9rem 2.5rem;
+    text-align: center;
+    background-color: #47AB11;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+    font-size: 17px;
+  }
+  .offer{
+    
+    color: #fff;
+   
+    font-size: xxx-large;
+    font-family: none;
+  }
+
+  .student{
+    color: #fff;
+    text-decoration: underline;
+    font-size: xx-large;
+    font-family: none;
+  }
+  .instructor{
+    text-decoration: underline;
+    color: #fff;
+    font-size: xx-large;
+    font-family: none;
+  }
+  .flex-container .box {
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+  .abc{
+    padding: 10px;
+    margin: 47px;
+    background-color: #8d99ae;
+    border-radius: 10px;
+    height: 212px;
+  }
+
+  .rowintro{
+    text-decoration: underline;
+  }
+  hr.solid {
+    border-top: 3px solid #bbb;
+  }
+  .see{
+    font-family: Alkatra;
+    text-decoration: underline;
+    font-style: normal;
+    font-weight: 400;
+    position: absolute;
+    left: 800;
+    left: 877px;
+    bottom: 320px;
+  }
+  .see1{
+    text-decoration: underline;
+    position: absolute;
+    left: 287px;
+    bottom: 318px;
+    font-family: Alkatra;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .logo{
+    width: 78px;
+    margin-right: 856px;
+    margin-bottom: 1px;
+    border-bottom-width: 0px;
+    margin-top: 0px;
+  }
+.def{
+  
+  padding: 10px;
+  margin: 47px;
+  background-color: #8d99ae;
+    border-radius: 10px;
+    height: 252px;
+}
+.Name{
+       font-family: Robot;
+       font-family: Roboto;
+    letter-spacing: 2px;
+    font-size: 30px;
+}
+.one{
+  position: absolute;
+  left: 887px;
+  bottom: 280px;
+}
+.two{
+  position: absolute;
+  left: 887px;
+  bottom: 253px;
+}
+.three{
+  position: absolute;
+  left: 887px;
+  bottom: 226px;
+}
+.four{
+  position: absolute;
+  left: 887px;
+  bottom: 199px;
+}
+.five{
+  position: absolute;
+  left: 887px;
+  bottom: 172px;
+}
+.six{
+  position: absolute;
+  left: 887px;
+  bottom: 145px;
+}
+.seven{
+  position: absolute;
+  left: 887px;
+  bottom: 118px;
+}
+.eight{
+  position: absolute;
+  left: 887px;
+  bottom: 91px;
+}
+.nine{
+  position: absolute;
+  left: 887px;
+  bottom: 64px;
+}

@@ -1,0 +1,52 @@
+body {
+  background-image: url("img/background.jpg");
+  position: relative;
+  background-size: cover;
+  text-align: center;
+
+}
+
+.navbar-brand {
+  font-family: Roboto Slab;
+  font-size: xx-large;
+}
+
+.navbar-nav {
+  margin-left: 69%;
+}
+
+.profile {
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.Name {
+  font-family: Alkatra;
+  color: white;
+  font-size: xx-large;
+}
+
+.abc {
+  padding: 10px;
+  margin: 47px;
+  background-color: white;
+  border-radius: 10px;
+  height: 315px;
+}
+
+.rowintro {
+  text-decoration: underline;
+
+}
+
+.view {
+  width: auto;
+}
+
+.view2 {
+  margin-top: 25px;
+  width: 266px;
+}
